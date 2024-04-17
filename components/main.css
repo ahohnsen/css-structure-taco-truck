@@ -1,0 +1,17 @@
+.main {
+  color: var(--main-text);
+}
+
+.menu-container {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 0;
+}
+
+.menu-headline {
+  background-color: var(--main-title-bg);
+  display: inline;
+  padding: 0.3rem;
+}

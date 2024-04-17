@@ -1,0 +1,12 @@
+.card {
+  background-color: var(--card-bg);
+  border-radius: 8px;
+  padding: 0 20px 40px;
+  width: 48%;
+}
+
+.card h4,
+.card p {
+  margin: 0;
+  font-weight: normal;
+}
